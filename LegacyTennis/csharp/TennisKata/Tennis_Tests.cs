@@ -59,10 +59,10 @@ namespace TennisKata
             tennis = new TennisDefactored();
 
             for (int i = 0; i < ballsToPlayer1; i++)
-                tennis.Player1WinsTheBall();
+                tennis.Player1();
                
             for (int i = 0; i < ballsToPlayer2; i++)
-                tennis.Player2WinsTheBall();
+                tennis.Player2();
 
             try
             {

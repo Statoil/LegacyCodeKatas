@@ -65,12 +65,12 @@
             }
         }
 
-        public void Player1WinsTheBall()
+        public void Player1()
         {
             p1++;
         }
 
-        public void Player2WinsTheBall()
+        public void Player2()
         {
             p2++;
         }
