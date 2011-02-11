@@ -7,4 +7,9 @@ You can find the tennis rules here: [Add link to Tennis kata]
 
 2. Refactor until you are satisfied
 
-HINT: Don't be surprised if there are errors in this "produciton" code.
+HINT: Don't be surprised if there are errors in this "production" code.
+
+This Kata will cover:
+* Getting large methods under test
+* Refactor existing code that doesn't have any tests
+* Characterization tests 
