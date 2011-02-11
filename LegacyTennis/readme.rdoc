@@ -1,0 +1,7 @@
+The goal of this Kata is to get the Tennis game code under testing, and refactor the code to make it more readable.
+
+
+1. Start out by writing characterization tests.
+
+2. Refactor until you are satisfied
+
