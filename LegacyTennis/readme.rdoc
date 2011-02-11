@@ -1,7 +1,6 @@
 The goal of this Kata is to get the Tennis game code under testing, and refactor the code to make it more readable. It goes without saying that you also need to make sure that the code works as expected.
 
-You can find the tennis rules here: [Add link to Tennis kata]
-
+You can find the tennis rules here: http://codingdojo.org/cgi-bin/wiki.pl?KataTennis
 
 1. Start out by writing characterization tests.
 
