@@ -6,3 +6,8 @@ The goal of this Kata is to get the Tennis game code under testing, and refactor
 2. Refactor until you are satisfied
 
 HINT: Don't be surprised if there are errors in this "production" code.
+
+This Kata will cover:
+* Getting large methods under test
+* Refactor existing code that doesn't have any tests
+* Characterization tests 
