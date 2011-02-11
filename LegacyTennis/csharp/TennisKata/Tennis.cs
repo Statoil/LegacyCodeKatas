@@ -1,6 +1,6 @@
 ﻿namespace TennisKata
 {
-    public class TennisDefactored
+    public class Tennis
     {
         private int p1, p2;
 
