@@ -5,4 +5,4 @@ The goal of this Kata is to get the Tennis game code under testing, and refactor
 
 2. Refactor until you are satisfied
 
-HINT: Don't be surprised if there are errors in this "produciton" code.
+HINT: Don't be surprised if there are errors in this "production" code.
