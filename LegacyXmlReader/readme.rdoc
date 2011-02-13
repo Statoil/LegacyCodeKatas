@@ -1,0 +1,16 @@
+The goal of this Kata is to get the XMLReader.readXmlFile under test, and remove as much duplication as possible. It goes without saying that you also need to make sure that the code works as expected.
+
+An example xml file can be found in /data/data.xml 
+
+1. Start out by writing characterization tests.
+
+2. Refactor until you are satisfied
+
+3. Are there any fields from the xml that are not being read? How did you find out?
+
+HINT: Don't be surprised if there are errors in this "production" code.
+
+This Kata will cover:
+* Getting large methods under test
+* Refactor existing code that doesn't have any tests
+* Characterization tests 
