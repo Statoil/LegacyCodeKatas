@@ -1,0 +1,16 @@
+!! THIS KATA IS NOT YET COMPLETED. WORK IN PROGRESS !!
+
+The goal of this Kata is to get the system under test. The system uses a number of web services that will not work for testing purposes, and therefore must be replaced by something testable.
+
+1. 
+
+2. 
+
+3. 
+
+HINT: 
+
+This Kata will cover:
+* Removing dependencies.
+* Refactor existing code that doesn't have any tests
+* Characterization tests 
