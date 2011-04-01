@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+	<name>Jan</name>
+	<age>27</age>
+	<adress>Himmelveien 17</adress>
+	<city>New York</city>
+	<postalCode>1001</postalCode>
+</person>
+
