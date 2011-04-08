@@ -1,0 +1,18 @@
+
+This Kata has two goals:
+ 
+1) The first goal is to refactor the XMLReader class.
+2) The second goal is to get the simple XML reader under testing, as well as getting the log function under testing.
+
+The program contains main algorithms, one to translate XML to a Person object, and one to write a success or fail text to a XML log file.
+Input data can be found in the folder data/:
+a) PersonData.xml - This data should parse correctly
+b) PersonDataWithError.xml - This data are missing the name tag, and parsing should fail.
+
+The log file output can be found in output/ folder.
+
+1. Start out by writing characterization test.
+2. Refactor until you are satisfied.
+3. Do you have a test to check that the log file output is correct?
+
+HINT: Split the code into multiple files.

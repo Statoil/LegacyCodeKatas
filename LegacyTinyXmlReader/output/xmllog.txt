@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2011-03-04T11:15:19</date>
+  <millis>1299233719474</millis>
+  <sequence>0</sequence>
+  <logger>Logging1</logger>
+  <level>INFO</level>
+  <class>XMLReader$XmlLog</class>
+  <method>write</method>
+  <thread>10</thread>
+  <message>PersonData.xml parsing OK</message>
+</record>
+<record>
+  <date>2011-03-04T11:15:19</date>
+  <millis>1299233719474</millis>
+  <sequence>1</sequence>
+  <logger>Logging1</logger>
+  <level>INFO</level>
+  <class>XMLReader$XmlLog</class>
+  <method>write</method>
+  <thread>10</thread>
+  <message>PersonDataWithError.xmll parsing FAILED</message>
+</record>
+</log>
